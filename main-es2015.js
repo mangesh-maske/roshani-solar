@@ -278,6 +278,7 @@ let HomeComponent = class HomeComponent {
             navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
             responsiveClass: true,
             dots: false,
+            autoWidth: false,
             responsive: {
                 0: {
                     items: 1,
